@@ -19,4 +19,12 @@
 - INTERSECT
   - 検索結果と他の検索結果で重複する部分を取得する
 
+DISTINCT
+----
+### 重複行を除外する
+
+```
+select distinct 列名...
+  from テーブル名
+```
 
