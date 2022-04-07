@@ -74,7 +74,7 @@ select 列名...
 集合演算子
 ----
 
-commit test 
+commit test 2 time
 
 
 
